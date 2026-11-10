@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YwOgYpXHSwU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sk\\Desktop\\New Task\\NewTask30Days\\Task2\\Task2\\Task2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sk\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.14\\microsoft.win32.systemevents.10.0.14.nupkg.sha512",
+    "C:\\Users\\sk\\.nuget\\packages\\system.drawing.common\\10.0.14\\system.drawing.common.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
